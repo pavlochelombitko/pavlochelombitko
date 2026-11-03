@@ -15,6 +15,16 @@ I use Python, SQL and statistics to explore questions about business performance
 - **Python and Power BI** for developing skills in data workflows and visualization
 - **Applied economics** for framing questions about markets, competition, and business performance
 
+## Recent Projects
+
+### BrightDesk Q3 Sales Analysis
+
+I built this project to practice Python and get hands-on experience with libraries for data analysis and visualization. Using synthetic sales data for BrightDesk, a fictional retailer, I compared revenue, profit margins, and units sold across four categories and 20 products.
+
+Electronics earned the most revenue, while Stationery had the highest profit margin and sold the most units. I used charts to show how the rankings changed depending on the metric.
+
+[View the project on GitHub](https://github.com/pavlochelombitko/brightdesk-q3-sales-analysis)
+
 ## Connect
 
 I’m open to **data analytics internships in Slovakia or remotely**, especially work that connects analysis with finance or economic research.

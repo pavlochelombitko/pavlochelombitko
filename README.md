@@ -4,9 +4,9 @@
 
 I use Python, SQL and statistics to explore questions about business performance, markets, and economic trends. I’m studying Applied Economics at the Bratislava University of Economics and Business and working in policy administration at Swiss Re iptiQ, where I support anti-money laundering (AML) administration and implement changes to policies in a huge Data Base with over 400,000 active customers.
 
-- 🌱 I’m currently learning Python, SQL
-- 📫 How to reach me: pavlochelombitko6@gmail.com
-- 😄 Pronouns: hire/please
+- 🌱 I’m learning Python and SQL by building data analytics projects.
+- 📊 Latest project: [BrightDesk Q3 Sales Analysis](https://github.com/pavlochelombitko/brightdesk-q3-sales-analysis) — fictional retailer, real SQL queries.
+- 📫 Reach me at [pavlochelombitko6@gmail.com](mailto:pavlochelombitko6@gmail.com).
 
 ## Tools and methods
 

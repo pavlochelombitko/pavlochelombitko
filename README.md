@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**pavlochelombitko/pavlochelombitko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Applied Economics student at EUBA · Data analytics and financial research · Bratislava, Slovakia**
 
-Here are some ideas to get you started:
+I use Python, SQL and statistics to explore questions about business performance, markets, and economic trends. I’m studying Applied Economics at the Bratislava University of Economics and Business and working in policy administration at Swiss Re iptiQ, where I support anti-money laundering (AML) administration and implement changes to policies in a huge Data Base with over 400,000 active customers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Python, SQL
+- 📫 How to reach me: pavlochelombitko6@gmail.com
+- 😄 Pronouns: hire/please
+
+## Tools and methods
+
+- **SQL and MySQL** for relational datasets and summary queries
+- **Excel** for statistical analysis and exploratory work
+- **Python and Power BI** for developing skills in data workflows and visualization
+- **Applied economics** for framing questions about markets, competition, and business performance
+
+## Connect
+
+I’m open to **data analytics internships in Slovakia or remotely**, especially work that connects analysis with finance or economic research.
+
+[CV](https://pavlochelombitko.github.io/resume/) · [LinkedIn](https://www.linkedin.com/in/pavlo-chelombitko/) · [Repositories](https://github.com/pavlochelombitko?tab=repositories)
+
+
